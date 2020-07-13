@@ -1,0 +1,106 @@
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.App  - hello from logger
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.App  - hello from logger
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.App  - hello from logger
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.App  - hello from logger
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.App  - hello from logger
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.App  - hello from logger
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.App  - hello from logger
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.App  - hello from logger
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.App  - hello from logger
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.App  - Shift Start Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.App  - hello from logger
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.App  - Day Start Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.App  - Day End Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.App  - Shift Start Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.App  - Week Avg Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.App  - hello from logger
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Day Start Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Day End Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Shift Start Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Week Avg Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.App  - hello from logger
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Day Start Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Day End Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Shift Start Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Week Avg Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.App  - hello from logger
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Day Start Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Day End Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Shift Start Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Week Avg Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - Avg Attendance : avgAttendance:[int]:true
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - End Attendance : endTime:[int]:true
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - Shift Attendance : shiftStartTime:[int]:true
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - Start Attendance : starTime:[int]:true
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.App  - hello from logger
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Day Start Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Day End Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Shift Start Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Week Avg Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - Avg Attendance : avgAttendance
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - End Attendance : endTime:[int]:true
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - Shift Attendance : shiftStartTime:[int]:true
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - Start Attendance : starTime:[int]:true
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.App  - hello from logger
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Day Start Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Day End Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Shift Start Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Week Avg Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - Avg Attendance : avgAttendance
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - End Attendance : endTime:[int]:true
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - Shift Attendance : shiftStartTime:[int]:true
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - Start Attendance : starTime:[int]:true
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.App  - hello from logger
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Day Start Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Day End Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Shift Start Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Week Avg Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - Avg Attendance : avgAttendance
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - End Attendance : endTime:[int]:true
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - Shift Attendance : shiftStartTime:[int]:true
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - Start Attendance : starTime:[int]:true
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.App  - hello from logger
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Day Start Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Day End Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Shift Start Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Week Avg Time : 9
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - Avg Attendance : avgAttendance
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - End Attendance : endTime:[int]:true
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - Shift Attendance : shiftStartTime:[int]:true
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - Start Attendance : starTime:[int]:true
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.App  - hello from logger
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Day Start Time : 1
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Day End Time : 2
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Shift Start Time : 3
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Week Avg Time : 4
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - Avg Attendance : avgAttendance
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - End Attendance : endTime:[int]:true
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - Shift Attendance : shiftStartTime:[int]:true
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - Start Attendance : starTime:[int]:true
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.App  - hello from logger
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Day Start Time : 1
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Day End Time : 2
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Shift Start Time : 3
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Week Avg Time : 4
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - Avg Attendance : avgAttendance
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - End Attendance : endTime:[int]:true
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - Shift Attendance : shiftStartTime:[int]:true
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - Start Attendance : starTime:[int]:true
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.App  - hello from logger
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Day Start Time : 11
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Day End Time : 23
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Shift Start Time : 48
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Week Avg Time : 235
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - Avg Attendance : avgAttendance
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - End Attendance : endTime:[int]:true
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - Shift Attendance : shiftStartTime:[int]:true
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - Start Attendance : starTime:[int]:true
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.App  - hello from logger
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Day Start Time : 11
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Day End Time : 23
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Shift Start Time : 48
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor  - Week Avg Time : 235
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - Avg Attendance : avgAttendance
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - End Attendance : endTime:[int]:true
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - Shift Attendance : shiftStartTime:[int]:true
+[main] INFO  com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader  - Start Attendance : starTime:[int]:true
