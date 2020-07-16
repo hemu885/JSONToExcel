@@ -3,7 +3,6 @@
 	<name>JsonToDVSDataLoader</name>
 	<comment></comment>
 	<projects>
-		<project>MyHRAttendance-XOM</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

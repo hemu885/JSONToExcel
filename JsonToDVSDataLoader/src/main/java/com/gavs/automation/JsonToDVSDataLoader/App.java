@@ -8,19 +8,22 @@ import com.gavs.automation.JsonToDVSDataLoader.JSONToJava.JsonToJavaConvetor;
 import com.gavs.automation.JsonToDVSDataLoader.JavaToExcel.JavaToExcelLoader;
 
 /**
- * Hello world!
+ * Data Auto copy from JSON to DVS Excel
+ * 
+ * @author hemendra.c@gavstech.com
+ *
  *
  */
-public class App 
-{
+
+
+public class App {
 	private static final Logger logger = LogManager.getLogger(App.class);
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
-        logger.info("hello from logger");
-        
-        EmpAttendanceInfo emp =JsonToJavaConvetor.createJavaMapper();
-        JavaToExcelLoader.javaToExcelDataLoader(emp);
-        
-    }
+
+	public static void main(String[] args) {
+
+		logger.info("----------Automatic JSON to DVS Data Copier--------");
+		EmpAttendanceInfo emp = JsonToJavaConvetor.createJavaMapper();
+		JavaToExcelLoader.javaToExcelDataLoader(emp);
+
+	}
 }

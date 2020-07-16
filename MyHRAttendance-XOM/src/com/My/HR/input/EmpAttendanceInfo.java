@@ -2,9 +2,12 @@ package com.My.HR.input;
 
 public class EmpAttendanceInfo {
 	
+	
 	private String starTime;
 	private String endTime;
 	private String shiftStartTime;
+	
+	@JsonP
 	private String avgAttendance ;
 	
 	public EmpAttendanceInfo(){
@@ -44,6 +47,9 @@ public class EmpAttendanceInfo {
 		this.avgAttendance = avgAttendance;
 	}
 	
-	
+	 @Override
+	    public String toString() {
+	        return "EmpAttendanceInfo [starTime=" + starTime + ", endTime=" + endTime + ", shiftStartTime=" + shiftStartTime + ", avgAttendance=" + avgAttendance +"]";
+	    }
 
 }
