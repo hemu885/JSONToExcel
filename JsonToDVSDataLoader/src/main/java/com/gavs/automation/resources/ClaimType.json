@@ -1,0 +1,19 @@
+{
+     "practiceId": 10007,
+      "correlationId": "My Correlation ID",    
+	    "explain": "u0005",
+        "activeInsurancePrefix": "New india honda",
+        "version": "V2",
+		  "transferType": "1",
+        "scrubId": "Ab23",
+	   "claim": {
+	     "serviceDate": "june20",
+		 "claimFormat": "string",
+            "reserved19Note": "string",
+			  "activeInsurancePrefix": "string",
+		 "similarIllnessDate": "string",
+		  "sterilization": "string",
+            "invoiceId": "string" 	
+	   
+	   }
+  }

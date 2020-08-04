@@ -1,0 +1,72 @@
+{
+     "practiceId": 10007,
+      "correlationId": "C002",    
+	    "explain": "July 28 test",
+        "activeInsurancePrefix": "Service honda",
+        "version": "9",
+		 "transferType": "Done Automation",
+        "scrubId": "SB09",
+	   "claim": {
+	     "serviceDate": "Match draw",
+		 "claimFormat": "Covid format",
+            "reserved19Note": "covid19",
+			  "activeInsurancePrefix": "Test Data",
+		 "similarIllnessDate": "Dettole",
+		  "sterilization": "Hems",
+            "invoiceId": "My007" ,
+			   "charges": [{
+                    "amount": 264,
+                    "id": 10,
+                    "diagnosisCodes": [
+                        "string"
+                    ],
+                    "fromDate": "string",
+                    "toDate": "string",
+                    "relativeValueUnit": 49793,
+                    "originalAmount": 12,
+                    "outstandingAmount": 456,
+                    "procedureCode": "LPD",
+                    "modifiers": [{
+                            "id": "MSB",
+                            "chargeable": "MsbChs",
+                            "printable": "string"
+                        }
+                    ],
+                    "units": 10,
+                    "note": "string",
+                    "unlistedPxException": "string",
+                    "printable": "TennisPrint",
+                    "epsdtFlag": "prEPSD",
+                    "officeVisitFlag": "trimOffice",
+                    "anesthesiaTimeSheetData": {
+                        "procedureCode": "Sproced"
+                    },
+                    "epsdt": "thEPS",
+                    "status": {
+                        "primaryDenied": "PrimeryDenied"
+                    },
+                    "transactions": [{
+                            "amount": 3682,
+                            "id": 10,
+                            "transferType": "SB Transfer",
+                            "type": "transactions  $SB"
+                        }
+                    ],
+                    "submissionOverrides": [{
+                            "formName": "string",
+                            "formAttributes": [{
+                                    "name": "string",
+                                    "value": "string"
+                                }
+                            ]
+                        }
+                    ],
+                    "clia": {
+                        "requiredYN": "string"
+                    },
+                    "revenueCode": "string"
+                }
+            ]
+	   
+	   }
+  }

@@ -1,0 +1,6 @@
+{
+    "starTime": "22",
+    "endTime": "34",
+    "avgAttendance": "54",
+    "shiftStartTime": "45"
+  }
